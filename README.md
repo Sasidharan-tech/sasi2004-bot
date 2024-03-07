@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sasi2004-bot
+- 👋 Hi, I’m sasi
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
